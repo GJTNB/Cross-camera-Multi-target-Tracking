@@ -8,6 +8,11 @@
 - https://github.com/ifzhang/FairMOT
 - https://github.com/layumi/Person_reID_baseline_pytorch
 
+
+准备工作：
+1. 下载FairMOT权重并将其添加到models文件夹，权重下载链接：[Baidu,code:uouv](https://pan.baidu.com/s/1H1Zp8wrTKDk20_DSPAeEkg)
+2. 下载ReID权重并将其添加到src/ReID/model/ft_ResNet50文件夹，权重下载链接：[Baidu,code:63ho](https://pan.baidu.com/s/1vnUuq3WOUr6Y8vX_9-b4LA)
+
 使用方法：
 1. 将所要处理的视频文件放入videos文件夹中（若处理的是实时的视频流可不用）；
 2. 打开cam.txt文本，将刚才放入videos中的视频文件相对路径写入（若实时的视频流可根据接入电脑的端口写入，一般默认为0和1）；
