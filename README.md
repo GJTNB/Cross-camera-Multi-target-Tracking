@@ -1,4 +1,5 @@
-# 跨摄像头多目标跟踪（Cross-camera Multi-target Tracking）
+# 跨摄像头多目标跟踪
+#（Cross-camera Multi-target Tracking）
 
 本项目将多目标跟踪与行人重识别相结合，设计了一个跨摄像头多目标跟踪系统，能够完成两个摄像头下目标的跟踪与识别。
 
